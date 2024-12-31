@@ -65,4 +65,4 @@ The model was trained on cleaned data, with preprocessing pipelines for numerica
 4. Run the app:
 
  ```bash
-streamlit run app.py
+streamlit run life_expectancy_app.py
