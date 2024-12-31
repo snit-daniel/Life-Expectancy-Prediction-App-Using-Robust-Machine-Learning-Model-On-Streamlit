@@ -55,12 +55,12 @@ The model was trained on cleaned data, with preprocessing pipelines for numerica
 
 2. Install dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Place the following files in the root directory:
 
-stacking_model.pkl
-life_expectancy_data.csv
+  stacking_model.pkl
+  life_expectancy_data.csv
 
 4. Run the app:
 
