@@ -52,8 +52,9 @@ The model was trained on cleaned data, with preprocessing pipelines for numerica
    git clone https://github.com/yourusername/life-expectancy-app.git
    cd life-expectancy-app
 
-2. Install dependencies:
 
+2. Install dependencies:
+   ```bash
 pip install -r requirements.txt
 
 3. Place the following files in the root directory:
