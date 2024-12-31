@@ -53,7 +53,7 @@ The model was trained on cleaned data, with preprocessing pipelines for numerica
    cd life-expectancy-app
 
 2. Install dependencies:
- ```bash
+
 pip install -r requirements.txt
 
 3. Place the following files in the root directory:
